@@ -29,7 +29,7 @@ One of the main challenges that I have discovered in this competition is that th
 
 
 #### *Class Distribution With Balancing*
-![Classes Balanced](/balanced_classes.png)
+![Classes Balanced](/class_balances.png)
 
 *Dataset Preparation* 
 Data is prepared and preprocessed using Tensorflow.
